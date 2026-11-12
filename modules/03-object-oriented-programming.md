@@ -2,6 +2,8 @@
 
 **Duration:** 4 weeks · **Prerequisites:** 01–02
 
+**Exercises:** [12 exercises for this module](../exercises/03-object-oriented-programming.md)
+
 ## Goals
 - Model a problem domain with classes, interfaces and records
 - Explain when to use inheritance and when composition is better

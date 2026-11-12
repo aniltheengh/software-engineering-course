@@ -2,6 +2,8 @@
 
 **Duration:** 5 weeks · **Prerequisites:** 01–03
 
+**Exercises:** [12 exercises for this module](../exercises/04-data-structures.md)
+
 ## Goals
 - Implement the core data structures from scratch in C#
 - Choose a structure based on the cost of the operations you need

@@ -2,6 +2,8 @@
 
 **Duration:** 2 weeks · **Prerequisites:** 01
 
+**Exercises:** [10 exercises for this module](../exercises/02-developer-tools.md)
+
 ## Goals
 - Work comfortably in a terminal
 - Use Git and GitHub for every project from here on

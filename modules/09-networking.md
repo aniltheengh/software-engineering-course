@@ -2,6 +2,8 @@
 
 **Duration:** 4 weeks · **Prerequisites:** 08
 
+**Exercises:** [12 exercises for this module](../exercises/09-networking.md)
+
 ## Goals
 - Trace what happens between typing a URL and seeing a page
 - Write networked programs with sockets and HTTP

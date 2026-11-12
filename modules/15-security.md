@@ -2,6 +2,8 @@
 
 **Duration:** 3 weeks · **Prerequisites:** 09, 13
 
+**Exercises:** [14 exercises for this module](../exercises/15-security.md)
+
 ## Goals
 - Recognise and prevent the common classes of vulnerability in your own code
 - Use cryptography correctly by relying on vetted libraries

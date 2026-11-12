@@ -2,6 +2,8 @@
 
 **Duration:** 4 weeks · **Prerequisites:** 03, 11
 
+**Exercises:** [14 exercises for this module](../exercises/12-software-design-and-architecture.md)
+
 ## Goals
 - Structure a medium-sized codebase so it stays easy to change
 - Know the common patterns and, more importantly, when not to use them

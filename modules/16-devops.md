@@ -2,6 +2,8 @@
 
 **Duration:** 4 weeks · **Prerequisites:** 11, 13
 
+**Exercises:** [14 exercises for this module](../exercises/16-devops.md)
+
 ## Goals
 - Take an application from a commit to a running deployment automatically
 - Observe it once it is running

@@ -2,6 +2,8 @@
 
 **Duration:** 6 weeks · **Prerequisites:** 07
 
+**Exercises:** [13 exercises for this module](../exercises/08-operating-systems.md)
+
 ## Goals
 - Explain what the OS does for a running program
 - Understand processes, threads, virtual memory and file systems well enough to debug real problems

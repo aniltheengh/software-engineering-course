@@ -2,6 +2,8 @@
 
 **Duration:** 6 weeks · **Prerequisites:** Phases 1–3
 
+**Exercises:** [8 exercises for this module](../exercises/20-capstone.md)
+
 ## Goal
 Design, build, test, deploy and document one substantial piece of software on your own. This is the project you show to other people.
 

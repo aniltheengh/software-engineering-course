@@ -2,6 +2,8 @@
 
 **Duration:** 3 weeks · **Prerequisites:** 03
 
+**Exercises:** [12 exercises for this module](../exercises/11-testing-and-code-quality.md)
+
 ## Goals
 - Write code that is testable, and tests that are worth keeping
 - Refactor safely

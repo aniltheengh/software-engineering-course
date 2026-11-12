@@ -2,6 +2,8 @@
 
 **Duration:** 5 weeks · **Prerequisites:** 04–05
 
+**Exercises:** [14 exercises for this module](../exercises/10-databases.md)
+
 ## Goals
 - Design a normalised schema and write non-trivial SQL
 - Understand what indexes and transactions do under the hood

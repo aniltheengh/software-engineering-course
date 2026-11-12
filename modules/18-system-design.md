@@ -2,6 +2,8 @@
 
 **Duration:** 4 weeks · **Prerequisites:** 10, 13, 16, 17
 
+**Exercises:** [14 exercises for this module](../exercises/18-system-design.md)
+
 ## Goals
 - Turn vague requirements into a defensible architecture
 - Estimate capacity and explain trade-offs out loud

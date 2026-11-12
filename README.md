@@ -5,13 +5,14 @@ A self-study curriculum covering the breadth of a computer science degree plus t
 - **Language:** C# / .NET (concepts are language-independent; a few systems modules read C)
 - **Pace:** 8–10 hours per week
 - **Length:** about 84 weeks core, 88 with the optional module
+- **Exercises:** [exercises/](exercises/README.md) — one graded set per module
 - **Track your progress:** [PROGRESS.md](PROGRESS.md)
 
 ## How to use this course
 
 1. Work through the modules in order; later phases assume the earlier ones.
 2. In each module, do the **primary resource** first. The others are for a second explanation or extra depth.
-3. Do every practice task in C#. Reading without writing code does not stick.
+3. Do the module's exercise set in [exercises/](exercises/README.md) — over 250 graded exercises, many with expected results to check against. Reading without writing code does not stick.
 4. Build the checkpoint project and push it to GitHub before moving on.
 5. Tick the module off in `PROGRESS.md`.
 

@@ -2,6 +2,8 @@
 
 **Duration:** 6 weeks · **Prerequisites:** 04
 
+**Exercises:** [14 exercises for this module](../exercises/05-algorithms.md)
+
 ## Goals
 - Recognise which algorithmic technique fits a problem
 - Analyse running time and argue correctness

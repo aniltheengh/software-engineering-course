@@ -2,6 +2,8 @@
 
 **Duration:** 6 weeks · **Prerequisites:** none
 
+**Exercises:** [12 exercises for this module](../exercises/01-programming-fundamentals.md)
+
 ## Goals
 - Write, run and debug console programs in C# without copying from a tutorial
 - Break a problem into functions and choose suitable built-in types and collections

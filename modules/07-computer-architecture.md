@@ -2,6 +2,8 @@
 
 **Duration:** 5 weeks · **Prerequisites:** 01–05
 
+**Exercises:** [12 exercises for this module](../exercises/07-computer-architecture.md)
+
 ## Goals
 - Explain how a program becomes instructions executed by hardware
 - Reason about memory layout, caches and performance

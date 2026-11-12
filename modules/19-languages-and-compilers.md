@@ -2,6 +2,8 @@
 
 **Duration:** 4 weeks · **Prerequisites:** 04, 05, 07
 
+**Exercises:** [14 exercises for this module](../exercises/19-languages-and-compilers.md)
+
 ## Goals
 - Understand how source code is parsed, analysed and executed
 - Be able to build small domain-specific languages and code-analysis tools

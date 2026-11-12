@@ -2,6 +2,8 @@
 
 **Duration:** 3 weeks · **Prerequisites:** 08
 
+**Exercises:** [13 exercises for this module](../exercises/14-concurrency-and-async.md)
+
 ## Goals
 - Use `async`/`await` correctly and explain what it compiles to
 - Write thread-safe code and spot race conditions

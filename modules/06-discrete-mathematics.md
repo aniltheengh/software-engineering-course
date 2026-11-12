@@ -2,6 +2,8 @@
 
 **Duration:** 4 weeks · **Prerequisites:** school-level algebra (run in parallel with 04–05 if you prefer)
 
+**Exercises:** [12 exercises for this module](../exercises/06-discrete-mathematics.md)
+
 ## Goals
 - Read and write simple proofs
 - Use logic, counting and graph theory when reasoning about programs

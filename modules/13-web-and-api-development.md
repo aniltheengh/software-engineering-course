@@ -2,6 +2,8 @@
 
 **Duration:** 5 weeks · **Prerequisites:** 09, 10, 12
 
+**Exercises:** [14 exercises for this module](../exercises/13-web-and-api-development.md)
+
 ## Goals
 - Build, document and test a REST API with ASP.NET Core
 - Understand enough frontend to put a usable interface on it

@@ -2,6 +2,8 @@
 
 **Duration:** 5 weeks · **Prerequisites:** 08, 09, 10, 14
 
+**Exercises:** [14 exercises for this module](../exercises/17-distributed-systems.md)
+
 ## Goals
 - Explain why distributed systems fail in the ways they do
 - Understand replication, partitioning and consensus at a working level
