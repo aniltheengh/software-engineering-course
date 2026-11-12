@@ -1,0 +1,30 @@
+// === gRPC: a service contract in Protocol Buffers ===
+// Add to an ASP.NET Core gRPC project (dotnet new grpc) under Protos/.
+// The build generates C# base classes for the server and a typed client.
+syntax = "proto3";
+
+option csharp_namespace = "KeyValueStore";
+
+service KeyValue {
+  rpc Get (GetRequest) returns (GetReply);
+  rpc Put (PutRequest) returns (PutReply);
+}
+
+message GetRequest {
+  string key = 1;
+}
+
+message GetReply {
+  bool found = 1;
+  string value = 2;
+}
+
+message PutRequest {
+  string key = 1;
+  string value = 2;
+  string request_id = 3;   // idempotency key: lets the server ignore a retried Put
+}
+
+message PutReply {
+  int64 version = 1;
+}

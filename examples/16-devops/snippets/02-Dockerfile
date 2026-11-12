@@ -1,0 +1,24 @@
+# === Dockerfile: multi-stage build for an ASP.NET Core app ===
+# Stage 1: build with the full SDK
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+# Copy the project file first so "restore" is cached until dependencies change.
+COPY MyApp.csproj .
+RUN dotnet restore
+
+COPY . .
+RUN dotnet publish -c Release -o /app --no-restore
+
+# Stage 2: run on the much smaller runtime image
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
+WORKDIR /app
+COPY --from=build /app .
+
+ENV ASPNETCORE_URLS=http://+:8080
+EXPOSE 8080
+USER $APP_UID
+ENTRYPOINT ["dotnet", "MyApp.dll"]
+
+# Build:  docker build -t myapp .
+# Run:    docker run -p 8080:8080 myapp

@@ -1,10 +1,11 @@
 # Software Engineering Course (C#)
 
-A self-study curriculum covering the breadth of a computer science degree plus the engineering practice needed to ship real software. Every module is a syllabus with curated free (or standard-textbook) resources, C# practice tasks, and a checkpoint project.
+A self-study curriculum covering the breadth of a computer science degree plus the engineering practice needed to ship real software. Every module has a topic list, runnable C# code examples, curated free (or standard-textbook) resources, a graded exercise set, and a checkpoint project.
 
 - **Language:** C# / .NET (concepts are language-independent; a few systems modules read C)
 - **Pace:** 8–10 hours per week
 - **Length:** about 84 weeks core, 88 with the optional module
+- **Code examples:** [examples/](examples/README.md) — a runnable C# project per module, also shown inside each module page
 - **Exercises:** [exercises/](exercises/README.md) — one graded set per module
 - **Track your progress:** [PROGRESS.md](PROGRESS.md)
 
@@ -12,9 +13,10 @@ A self-study curriculum covering the breadth of a computer science degree plus t
 
 1. Work through the modules in order; later phases assume the earlier ones.
 2. In each module, do the **primary resource** first. The others are for a second explanation or extra depth.
-3. Do the module's exercise set in [exercises/](exercises/README.md) — over 250 graded exercises, many with expected results to check against. Reading without writing code does not stick.
-4. Build the checkpoint project and push it to GitHub before moving on.
-5. Tick the module off in `PROGRESS.md`.
+3. Read the module's **code examples**, run them from [examples/](examples/README.md), and change them until you can predict the output.
+4. Do the module's exercise set in [exercises/](exercises/README.md) — over 250 graded exercises, many with expected results to check against. Reading without writing code does not stick.
+5. Build the checkpoint project and push it to GitHub before moving on.
+6. Tick the module off in `PROGRESS.md`.
 
 ## Roadmap
 
